@@ -14,7 +14,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/mc-whiskers-social-links-page-kDcyt9Clck
 - Live Site URL: https://mzdemir.github.io/social-links-profile/
 
 ### Built with
