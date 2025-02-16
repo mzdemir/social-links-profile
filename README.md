@@ -24,5 +24,5 @@ Users should be able to:
 
 ## Author
 
-- Website - https://mzdemir.github.io/social-links-profile/
+- Website - https://github.com/mzdemir
 - Frontend Mentor - https://www.frontendmentor.io/profile/mzdemir
